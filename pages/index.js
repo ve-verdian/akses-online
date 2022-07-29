@@ -17,7 +17,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          Semua yang kalian butuhkan{' '}
+          Informasi terkait akses online{' '}
           <code className={styles.code}>Ada Disini 📡</code>
         </p>
 
