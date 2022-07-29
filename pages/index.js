@@ -18,7 +18,7 @@ export default function Home() {
 
         <p className={styles.description}>
           Semua yang kalian butuhkan{' '}
-          <code className={styles.code}>Ada Disini !!!</code>
+          <code className={styles.code}>Ada Disini 📡</code>
         </p>
 
         <div className={styles.grid}>
