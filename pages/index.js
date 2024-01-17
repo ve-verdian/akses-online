@@ -22,17 +22,17 @@ export default function Home() {
         </p>
 
         <div className={styles.grid}>
-          {/* <a href="http://175.106.8.138:9099" target="_blank" rel="noopener noreferrer" className={styles.card}>
+         <a href="http://192.168.100.75" target="_blank" rel="noopener noreferrer" className={styles.card}>
             <h2>Teramedik &rarr;</h2>
             <p>Hospital Information System, Rumah Sakit Ibu & Anak Family</p>
-          </a> */}
+         </a>
 
-          <a href="http://cloud.rsiafamily.com:9393/nextcloud/index.php/login" target="_blank" rel="noopener noreferrer" className={styles.card}>
+          <a href="http://192.168.100.238/nextcloud" target="_blank" rel="noopener noreferrer" className={styles.card}>
             <h2>RSCLOUD &rarr;</h2>
             <p>Rumah yang aman untuk semua data Anda, alangkah baiknya di simpan di Cloud</p>
           </a>
 
-          <a href="http://akreditasi.rsiafamily.com/login.php" target="_blank" rel="noopener noreferrer" className={styles.card}>
+          <a href="http://192.168.100.26" target="_blank" rel="noopener noreferrer" className={styles.card}>
             <h2>SIDOKARS v1.2 &rarr;</h2>
             <p>Mengumpulkan, menyimpan, dan mencari dokumen Akreditasi</p>
           </a>
