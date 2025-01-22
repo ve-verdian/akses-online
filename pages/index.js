@@ -27,15 +27,15 @@ export default function Home() {
             <p>Hospital Information System, Eka Hospital Family</p>
          </a>
 
-          // <a href="http://192.168.100.238/nextcloud" target="_blank" rel="noopener noreferrer" className={styles.card}>
-          //   <h2>RSCLOUD &rarr;</h2>
-          //   <p>Rumah yang aman untuk semua data Anda, alangkah baiknya di simpan di Cloud</p>
-          // </a>
+          <a href="http://192.168.100.238/nextcloud" target="_blank" rel="noopener noreferrer" className={styles.card}>
+            <h2>RSCLOUD &rarr;</h2>
+            <p>Rumah yang aman untuk semua data Anda, alangkah baiknya di simpan di Cloud</p>
+          </a>
 
-          // <a href="http://192.168.100.26" target="_blank" rel="noopener noreferrer" className={styles.card}>
-          //   <h2>SIDOKARS v1.2 &rarr;</h2>
-          //   <p>Mengumpulkan, menyimpan, dan mencari dokumen Akreditasi</p>
-          // </a>
+          <a href="http://192.168.100.26" target="_blank" rel="noopener noreferrer" className={styles.card}>
+            <h2>SIDOKARS v1.2 &rarr;</h2>
+            <p>Mengumpulkan, menyimpan, dan mencari dokumen Akreditasi</p>
+          </a>
 
           <a href="http://lims.rsiafamily.com:9494/flims/index.php?p=show_detail&id=25/" target="_blank" rel="noopener noreferrer" className={styles.card}>
             <h2>FORM IT SIMRS &rarr;</h2>
