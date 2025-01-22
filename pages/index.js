@@ -37,12 +37,12 @@ export default function Home() {
           //   <p>Mengumpulkan, menyimpan, dan mencari dokumen Akreditasi</p>
           // </a>
 
-          // <a href="http://lims.rsiafamily.com:9494/flims/index.php?p=show_detail&id=25/" target="_blank" rel="noopener noreferrer" className={styles.card}>
-          //   <h2>FORM IT SIMRS &rarr;</h2>
-          //   <p>
-          //     Pengajuan akses user baik itu Teramedik, RSCLOUD, Sidokars, ataupun Email
-          //   </p>
-          // </a>
+          <a href="http://lims.rsiafamily.com:9494/flims/index.php?p=show_detail&id=25/" target="_blank" rel="noopener noreferrer" className={styles.card}>
+            <h2>FORM IT SIMRS &rarr;</h2>
+            <p>
+              Pengajuan akses user baik itu Teramedik, RSCLOUD, Sidokars, ataupun Email
+            </p>
+          </a>
         </div>
       </main>
 
