@@ -11,28 +11,21 @@ export default function Home() {
         <link rel="icon" href="/family.png" />
       </Head>
 
-      <main className={styles.main}>
-        <h1 className={styles.title}>
-          Selamat <a href="#">Datang</a>
-        </h1>
+      // <main className={styles.main}>
+      //   <h1 className={styles.title}>
+      //     Selamat <a href="#">Datang</a>
+      //   </h1>
 
-        <p className={styles.description}>
-          Informasi terkait akses online{' '}
-          <code className={styles.code}>Ada Disini 📡</code>
-        </p>
+      //   <p className={styles.description}>
+      //     Informasi terkait akses online{' '}
+      //     <code className={styles.code}>Ada Disini 📡</code>
+      //   </p>
 
         <div className={styles.grid}>
          <a href="https://tctrain.ekahospital.com/trakcare/train/web/csp/system.Home.cls#/Component/SSUserLogon" target="_blank" rel="noopener noreferrer" className={styles.card}>
             <h2>TrakCare &rarr;</h2>
             <p>Eka Hospital Family</p>
          </a>
-
-          <a href="http://lims.rsiafamily.com:9494/flims/index.php?p=show_detail&id=25/" target="_blank" rel="noopener noreferrer" className={styles.card}>
-            <h2>FORM IT SIMRS &rarr;</h2>
-            <p>
-              Pengajuan akses user baik itu Teramedik, RSCLOUD, Sidokars, ataupun Email
-            </p>
-          </a>
         </div>
       </main>
 
